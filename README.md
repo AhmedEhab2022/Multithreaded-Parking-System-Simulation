@@ -1,6 +1,6 @@
 # Multithreaded Parking System Simulation
 
-This project simulates a multithreaded parking system where cars arrive at different gates, wait for available parking spots, park for a specified duration, and then leave. The system uses custom semaphores to manage parking spots and ensures thread-safe operations.
+This project simulates a multithreaded parking system where cars arrive at 3 different gates, wait for available 4 parking spots, park for a specified duration, and then leave. The system uses custom semaphores to manage parking spots and ensures thread-safe operations.
 
 ---
 
